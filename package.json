@@ -1,0 +1,1 @@
+{"devDependencies":{"@nomicfoundation/hardhat-toolbox":"^5.0.0","@openzeppelin/contracts":"^5.1.0","hardhat":"^2.22.0"},"name":"coffee-agents-contracts","private":true,"scripts":{"compile":"hardhat compile","test":"hardhat test"},"version":"0.1.0"}
